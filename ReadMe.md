@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁Hi🙋‍♂️,I am Karthick Kumar SM<br>🔭 I’m currently studying at PANIMALAR INSTITUTE OF TECHNOLOGY<br>👯 I’m looking to develop my skills and knowledge related to IT Industry<br>🤝 I’m looking for opportunities to showcase and develop my skills<br>🌱 I’m currently learning FLUTTER and MERN stack<br>💬 Ask me about JAVA<br>⚡ Fun fact - I am good at facing pressures and problems with smile😊
+Hi🙋‍♂️,I am Karthick Kumar SM<br>🔭 I’m currently studying at PANIMALAR INSTITUTE OF TECHNOLOGY<br>👯 I’m looking to develop my skills and knowledge related to IT Industry<br>🤝 I’m looking for opportunities to showcase and develop my skills<br>🌱 I’m currently learning FLUTTER and MERN stack<br>💬 Ask me about JAVA<br>⚡ Fun fact - I am good at facing pressures and problems with smile😊
 
 
 ## 🌐 Socials:
