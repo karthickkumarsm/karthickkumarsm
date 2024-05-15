@@ -1,11 +1,6 @@
-<div align="left">
-</div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" wihttps://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"  />
-</div>
+<div align="center">Welcome to my GitHub Profile!</div>
 
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">😎About Me:</h2>
