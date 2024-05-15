@@ -1,3 +1,13 @@
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" wihttps://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"  />
+</div>
+
+###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">😎About Me:</h2>
 🙋‍♂️ Hi! I am Karthick Kumar SM<br>🔭 I’m currently studying at PANIMALAR INSTITUTE OF TECHNOLOGY<br>👯 I’m looking to develop my skills and knowledge related to IT Industry<br>🤝 I’m looking for opportunities to showcase and develop my skills<br>🌱 I’m currently learning FLUTTER and MERN stack<br>💬 Ask me about JAVA<br>⚡ Fun fact - I am good at facing pressures and problems with smile😊
 
