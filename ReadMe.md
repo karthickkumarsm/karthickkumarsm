@@ -31,9 +31,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karthickkumarsm&theme=github-compact"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">GitHub Trophies</h3>
-![](https://github-profile-trophy.vercel.app/?username=karthickkumarsm&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Random Dev's Quote</h3>
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
