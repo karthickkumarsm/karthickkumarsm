@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">😎About Me:</h2>
-🙋‍♂️ Hi! I am Karthick Kumar SM<br>🔭 I’m currently studying at PANIMALAR INSTITUTE OF TECHNOLOGY<br>👯 I’m looking forward to develop my skills and knowledge related to IT Industry<br>🤝 I’m looking for opportunities to showcase and develop my skills<br>🌱 I’m currently learning DSA in Java, FLUTTER and MERN<br>💬 Ask me about CORE JAVA<br>⚡ Fun fact - I am good at handling pressure and problems with smile😊
+🙋‍♂️ Hi! I am Karthick Kumar SM<br>🔭 I completed my Bachelor's degree at PANIMALAR INSTITUTE OF TECHNOLOGY in CSE<br>👯 I’m looking forward to develop my skills and knowledge related to IT Industry<br>🤝 I’m looking for opportunities to showcase and develop my skills<br>🌱 I’m currently learning DSA in Java, FLUTTER and MERN<br>💬 Ask me about CORE JAVA<br>⚡ Fun fact - I am good at handling pressure and problems with smile😊
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">😆Socials:</h2>
